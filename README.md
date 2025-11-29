@@ -1,6 +1,5 @@
-# SchubiRat
+# PROJECT BY MEILAA
 
-![Schubi](https://github.com/Schubilegend/SchubiRat/assets/90055814/a212304a-055e-4e1a-8a92-3b53bc4201ab)
 # QUAN TRỌNG
 Tất cả các vấn đề trước đây sẽ được giải quyết trong bản phát hành mới nhất
 
@@ -94,4 +93,4 @@ Cấu hình không được tải lại tự động, vì vậy bạn phải kh�
 
 
 
-[get back to the top](https://github.com/Schubilegend/SchubiRat#)
+[get back to the top]
