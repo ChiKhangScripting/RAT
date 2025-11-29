@@ -9,6 +9,9 @@ import requests
 import numerize
 
 app = Flask(__name__)
+@app.route("/")
+def index():
+    return "Server is running!"
 api = Api(app)
 app.config['MAX_CONTENT_LENGTH'] = 16 * 1024 * 1024
 
@@ -280,3 +283,4 @@ api.add_resource(SSID, '/ssid')
 
 if __name__ == '__main__':
     app.run(host="0.0.0.0", port=80)
+
